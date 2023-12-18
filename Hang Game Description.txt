@@ -1,0 +1,9 @@
+This game is about try to guess a secret word indicating or selecting letters from alphabet having limited attempts.
+
+In this case I will put the horca in the game to get less attempts to final user.
+
+The theme that will be related this game is Rainbow friends.
+
+This game is created to my best friend Julián who inspires me to give him an excellent gift and a way to improve his skills and knowledge.
+
+I love you my friend, you are the best.
